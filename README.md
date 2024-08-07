@@ -19,7 +19,8 @@ Cloud Provider: AWS
 Linguagem de programação: Python
 Componentes externos: Postman API
 
-![image](https://github.com/user-attachments/assets/784eb2cd-092a-41b9-99ac-ddd648f22ec6)
+![image](https://github.com/user-attachments/assets/1c8e1531-6d3f-495a-872f-61621907b03f)
+
 
 Etapas do Processo
 1) Um EventBridge Scheduler está configurado para disparar execuções a cada 10min;
